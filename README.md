@@ -137,9 +137,6 @@ This project is open-sourced under the MIT License. Feel free to use and modify 
 
 ## Team
 
-- **Kranthi Yelaboina** – Cloud Architect, Front-End Developer (Team Leader)  
-- **Narra Akshith Sai** – Backend Developer, ML Specialist
-
 We welcome contributions! If you find any issues or have suggestions, please open an issue or submit a pull request.
 
 Thank you for using Trovo!
